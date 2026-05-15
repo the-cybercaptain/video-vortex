@@ -1,0 +1,13 @@
+# requirements.txt
+yt-dlp>=2023.0.0
+Pillow>=9.0.0
+requests>=2.28.0
+
+
+
+
+
+
+
+
+
