@@ -1,0 +1,45 @@
+# License
+
+**VideoVortex Dual-Licensing & Proprietary Core Terms**
+
+Copyright © 2026 the-cybercaptain. All rights reserved.
+
+---
+
+## 1. 🟢 Graphical User Interface (GUI) Permission
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of the front-end user interface files (contained within the `gui/` directory and `main_gui.py`) to:
+
+- ✅ Study
+- ✅ Modify
+- ✅ Merge
+
+for **educational and personal use**, subject to preserving the original copyright notices.
+
+---
+
+## 2. 🔴 Proprietary Core Engine Restriction
+
+The backend execution architecture, system endpoints, and modules intended for the `core/` directory are strictly **PROPRIETARY and CLOSED-SOURCE**.
+
+### You may NOT:
+- ❌ Reverse-engineer
+- ❌ Recreate
+- ❌ Distribute
+- ❌ Use mock architectures for commercial deployment or public web hosting
+
+without explicit written consent from the copyright holder.
+
+### Commercial production usage, SaaS conversion, and full architectural access require a commercial license.
+
+---
+
+## 3. 💼 Commercial Inquiries
+
+For commercial licensing, full source-code buyout, or recruitment audits, please contact the author directly:
+
+🔗 [LinkedIn](https://linkedin.com/in/the-cybercaptain)
+
+---
+
+**By using this software, you agree to these terms.**
