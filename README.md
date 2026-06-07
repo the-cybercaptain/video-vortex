@@ -43,7 +43,7 @@ VideoVortex is a robust desktop application designed to simplify the process of 
 
 **GUI Framework:**
 
-[![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)](https://www.riverbankcomputing.com/software/pyqt/intro)
+![CustomTkinter](https://img.shields.io/badge/CustomTkinter-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
 **Core Libraries:**
 
