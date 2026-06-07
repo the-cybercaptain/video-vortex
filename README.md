@@ -109,13 +109,16 @@ Contributions and enhancements are welcome. The core logic is separated into the
 
 Automated tests are not currently detected within the repository.
 
+## ⚠️ Disclaimer & Educational Policy:
+
+This tool is strictly developed for educational and research purposes to demonstrate network streams and GUI interaction. Please note that downloading copyright-protected media (such as high-definition YouTube streams beyond standard restrictions) may violate platform Terms of Service.The developer assumes no liability for misuse. Users are fully responsible for ensuring compliance with digital rights and legal policies when executing this application.
+
 ## 📄 License
 
 This project is licensed under the [GNU General Public License v3.0](LICENSE) - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
--   Built with [PyQt5](https://www.riverbankcomputing.com/software/pyqt/intro) for the robust graphical user interface.
 -   Powered by [youtube-dlp](https://github.com/yt-dlp/yt-dlp) for comprehensive video downloading capabilities.
 -   Utilizes [Pillow](https://python-pillow.org/) for image processing functionalities.
 
